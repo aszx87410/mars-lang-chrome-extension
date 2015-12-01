@@ -1,6 +1,6 @@
 ﻿{
   "name": "煞氣轉換器",
-  "version": "0.2",
+  "version": "0.3",
   "permissions": [
     "storage", "tabs"
   ],
