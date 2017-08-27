@@ -3,7 +3,6 @@
 ## 介紹
 把你網頁上的文字都變成火星文
 
-示意圖：
 ![](http://aszx87410.github.io/mars-lang-chrome-extension/images/bg.jpg)
 
 下載：[http://aszx87410.github.io/mars-lang-chrome-extension/](http://aszx87410.github.io/mars-lang-chrome-extension/)
