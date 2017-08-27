@@ -1,12 +1,16 @@
-#煞氣轉換器
+# 煞氣轉換器
 
 ## 介紹
 把你網頁上的文字都變成火星文
 
-## 注意事項
-右上角有一個「煞」字的開關，黑色為關閉，綠色為開啟  
-若原本頁面是開啟，想要停止擴充套件，麻煩按下「煞」關閉之後，重新整理頁面  
-因為 Facebook 會一直載入內容，所以每五秒會更新一次，請稍作等候
+示意圖：
+![](http://aszx87410.github.io/mars-lang-chrome-extension/images/bg.jpg)
 
-## Contribute
-字典檔在`dict.js`，歡迎送PR
+下載：[http://aszx87410.github.io/mars-lang-chrome-extension/](http://aszx87410.github.io/mars-lang-chrome-extension/)
+
+## 使用說明
+右上角有一個「煞」字的開關，黑色為關閉，綠色為開啟  
+若原本頁面是開啟，想要停止擴充套件，麻煩按下「煞」關閉之後重新整理，頁面就會恢復正常
+
+## Contributing
+字典檔在`dict.js`，歡迎送 PR
